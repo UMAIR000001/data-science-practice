@@ -1,1 +1,0 @@
-print("aoa Umiar learning data analytic from Alex.I was hopeful to join with you")
