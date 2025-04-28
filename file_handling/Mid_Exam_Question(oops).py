@@ -1,4 +1,4 @@
-# ************Mid_Exam of OOPS  Long Question*****************
+# *************Mid_Exam of OOPS  Long Question*****************
 
 # Define a class named 'course'
 class course:
