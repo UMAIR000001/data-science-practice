@@ -1,4 +1,4 @@
-# 🚀 GenAI Week 3 – GitHub & Kaggle Progress
+# GenAI Week 3 – GitHub & Kaggle Progress
 
 Assalam o Alaikum 👋  
 Welcome to my **GenAI Week 3** assignment repo! This repository contains all my work from Week 1,2 of  Summer Break, including:
