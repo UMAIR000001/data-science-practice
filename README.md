@@ -1,7 +1,7 @@
 # 🚀 GenAI Week 3 – GitHub & Kaggle Progress
 
 Assalam o Alaikum 👋  
-Welcome to my **GenAI Week 3** assignment repo! This repository contains all my work from Week 3 of our course, including:
+Welcome to my **GenAI Week 3** assignment repo! This repository contains all my work from Week 1,2 of  Summer Break, including:
 
 - My learnings from the Google GenAI course on Kaggle
 - Creative prompts I used with AI tools
@@ -44,6 +44,7 @@ This repository is a hands-on exercise to practice:
 
 I’m excited to keep learning and improving.  
 If you’re viewing this repo and working on similar projects — feel free to connect and share ideas!
+
 
 ---
 
