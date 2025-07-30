@@ -1,5 +1,0 @@
-print("Hey Umair i am a statement from print_statemnt.txt file ")
-print("Hey Umair i am a second  statement from print_statemnt.txt file ") 
-
-This is the first line created
- this is the second line created 
