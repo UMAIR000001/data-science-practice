@@ -1,5 +1,2 @@
-Python file handling is fun!
-We can write, read, and append to files.
-This is our demo file for revision.
-We just added these lines using append mode.
-Appending keeps old content intact!
+get a small  video recording from "http://youtube.com/watch?v=ie4oGI85SAE  " for explaning toutorial hell
+get a small vedio recording from "https://www.youtube.com/watch?v=ua-CiDNNj30"for explaining endless watching video 
